@@ -1,8 +1,8 @@
 {
-  "name": "nodejs-demo",
+  "name": "Store-Front",
   "version": "0.0.1",
   "private": true,
-  "author": "Conan Zhang <bsspirit@gmail.com>",
+  "author": "Pooja Patel <poojapatel4nov@gmail.com>",
   "description": "http://blog.fens.me/nodejs-express3/",
   "scripts": {
     "start": "node app.js"
